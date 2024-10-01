@@ -1,0 +1,16 @@
+<subpictures>
+  <stream>
+    <spu
+     force="yes"
+     start="00:00:00.00"
+     image="menu1.png"
+     select="menu2.png"
+     highlight="menu2.png"
+     autooutline="infer"
+     outlinewidth="15"
+     autoorder="rows"
+    >
+    </spu>
+  </stream>
+</subpictures>
+

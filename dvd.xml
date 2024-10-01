@@ -1,0 +1,14 @@
+<dvdauthor>
+	<vmgm />
+	<titleset>
+		<titles>
+			<video format="pal" aspect="16:9" />
+			<subpicture lang="en" />
+			<audio lang="en" />
+			<pgc>
+				<vob file="movie_sub.mpg" />
+			</pgc>
+		</titles>
+	</titleset>
+</dvdauthor>
+

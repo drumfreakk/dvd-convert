@@ -1,0 +1,31 @@
+<dvdauthor dest="DVD">
+	<vmgm>
+		<menus>
+			<pgc>
+				<button>jump title 1;</button> 
+				<button>jump title 2;</button> 
+				<vob file="menu_final.mpg" pause="inf" /> 
+			</pgc>
+		</menus>
+	</vmgm>
+	<titleset>
+		<titles>
+			<video format="pal" aspect="16:9" />
+			<audio lang="en" />
+			<pgc>
+				<post>call vmgm menu 1;</post> 
+				<vob file="first_movie.mpg" /> 
+			</pgc>
+		</titles>
+	</titleset>
+	<titleset>
+		<titles>
+			<video format="pal" aspect="16:9" />
+			<audio lang="en" />
+			<pgc>
+				<post>call vmgm menu 1;</post> 
+				<vob file="second_movie.mpg" /> 
+			</pgc>
+		</titles>
+	</titleset>
+</dvdauthor>

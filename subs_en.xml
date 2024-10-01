@@ -1,0 +1,11 @@
+<subpictures format="PAL">
+   <stream>
+	  <textsub filename="subs_en.srt"
+		 fontsize="22.0" font="xerox.ttf" horizontal-alignment="center"
+		 vertical-alignment="bottom" left-margin="60" right-margin="60"
+		 top-margin="20" bottom-margin="30" subtitle-fps="25"
+		 movie-fps="25" movie-width="720" movie-height="576"
+		 force="no"
+	  />
+   </stream>
+</subpictures>
