@@ -42,7 +42,7 @@ dd if=/dev/zero bs=4 count=2000 | toolame -b 128 -s 48 /dev/stdin menu.mp2
 mplex -f 8 -o menu.mpg menu.m2v menu.mp2
 ```
 
-Make sure it contains the thumbnails, they cant be added later
+Thumbnails should be added now, as they cannot be added later. They can easily be extracted from VLC with the keyboard shortcut `Shift - S`.
 
 ### Buttons
  1. Open the menu jpg in gimp
